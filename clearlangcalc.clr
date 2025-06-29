@@ -1,0 +1,21 @@
+say Welcome to the ClearLang Calculator!
+
+# Define inputs
+set a to 20
+set b to 5
+
+# Addition
+say Adding a and b:
+add a and b
+
+# Subtraction (simulated using planned syntax)
+say Subtracting b from a:
+say a - b
+
+# Multiplication (simulated)
+say Multiplying a and b:
+say a * b
+
+# Division (simulated)
+say Dividing a by b:
+say a / b
